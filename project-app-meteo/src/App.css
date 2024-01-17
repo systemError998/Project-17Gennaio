@@ -1,0 +1,11 @@
+
+.Moda-1-rgba { color: rgba(216, 36, 51, 1); }
+.Moda-2-rgba { color: rgba(242, 140, 159, 1); }
+.Moda-3-rgba { color: rgba(95, 182, 216, 1); }
+.Moda-4-rgba { color: rgba(155, 226, 242, 1); }
+.Moda-5-rgba { color: rgba(242, 41, 41, 1); }  
+
+#root {
+    background-color: rgba(155, 226, 242, 1);
+}
+
